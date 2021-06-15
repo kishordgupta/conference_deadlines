@@ -26,7 +26,7 @@
 | USENIX                       | Rolling          | A     | https://www.usenix.org/conference/usenixsecurity21                                                   |
 | IEEE S&P                     | Rolling          | A     | https://www.ieee-security.org/TC/SP2021/cfpapers.html                                                |
 | NDSS                         | May              | A-    | https://www.ndss-symposium.org/ndss2022/                                                             |
-| Automation                   |                  |       |                                                                                                      |
+| Automation                   | ***********        |       |                                                                                                      |
 | IEEE ICRA                    | October          | A+    | https://dblp.uni-trier.de/db/conf/icra/index.html                                                    |
 | IROS                         | March            | A     | https://www.iros2021.org/                                                                            |
 | DAC                          | November         | A-    | https://www.dac.com/                                                                                 |

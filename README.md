@@ -1,4 +1,4 @@
-# conference_deadlines
+# Top computer science conference deadlines for AI, Computer vision, HCI, Automation and security 
 
 | Conference                   | Deadline (usual) | Grade | URL                                                                                                  |
 |------------------------------|------------------|-------|------------------------------------------------------------------------------------------------------|
